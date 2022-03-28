@@ -1,0 +1,11 @@
+package by.itstep.model;
+
+public class Person {
+ 
+	public String name;
+	public String lastName;
+	public int age;
+	public char gender ; //can be 'f' , 'm'
+	public  Car car;
+	public  Cat cat;
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+<fullyQualifiedTypeName name="test.Util"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="javax.swing.text.AbstractDocument.BranchElement"/>
+<fullyQualifiedTypeName name="utill.ArraysUtil"/>
+<fullyQualifiedTypeName name="by.itstep.model.Person"/>
+<fullyQualifiedTypeName name="by.itstep.model.Car"/>
+<fullyQualifiedTypeName name="by.itstep.model.Cat"/>
+<fullyQualifiedTypeName name="by.itstep.model.Address"/>
+<fullyQualifiedTypeName name="by.itstep.model.Company"/>
+<fullyQualifiedTypeName name="by.itstep.model.Task.empls.TestDeveloper"/>
+<fullyQualifiedTypeName name="by.itstep.model.Task.empls.JuniorTestDeveloper"/>
+<fullyQualifiedTypeName name="java.lang.management.ManagementFactory"/>
+<fullyQualifiedTypeName name="by.itstep.model.Task.empls.Mnager"/>
+<fullyQualifiedTypeName name="by.itstep.model.Employee"/>
+<fullyQualifiedTypeName name="by.itstep.model.Task.empls.Emplyee"/>
+<fullyQualifiedTypeName name="by.itstep.model.Task.empls.Student"/>
+<fullyQualifiedTypeName name="by.itstep.model.Task.empls.Person"/>
+<fullyQualifiedTypeName name="by.itstep.model.Task.empls.Sophomore"/>
+<fullyQualifiedTypeName name="model.Contact"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.lang.Character"/>
+<fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+<fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+</qualifiedTypeNameHistroy>

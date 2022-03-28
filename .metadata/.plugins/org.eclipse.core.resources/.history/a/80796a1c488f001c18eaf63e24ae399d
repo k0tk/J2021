@@ -1,0 +1,17 @@
+package by.itstep.strings;
+
+public class SBTester {
+
+	public static void main(String[] args) {
+	
+		int i =45;
+		String s = "TEST";
+		s= s+s+" EXTRA "+i+""+7 + " ADD";
+		System.out.println(s);
+		
+		StringBuffer sbuff;
+		StringBuilder sbuild;
+		
+	}
+
+}

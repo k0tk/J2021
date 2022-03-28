@@ -1,0 +1,14 @@
+package by.itstep.strings;
+
+public class SBTester {
+
+	public static void main(String[] args) {
+	
+		int i =45;
+		String s = "TEST"+i;
+		s= s+s+"EXTRA";
+		System.out.println(s);
+		
+	}
+
+}

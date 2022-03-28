@@ -1,0 +1,53 @@
+package qui;
+
+import java.awt.BorderLayout;
+import java.awt.EventQueue;
+
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+import javax.swing.border.EmptyBorder;
+
+import model.Contact;
+
+public class ContactsManagerApp extends JFrame {
+	
+	private static Contact contacts[];
+	
+	static {
+		
+		Contact c1 = new Contact(1,"Alex","Ivanov","+375445634576");
+		Contact c2 = new Contact(1,"John","Johnson","+375445635484");
+		Contact c3 = new Contact(1,"Bob","Tyson","+375445996342");
+		Contact c4 = new Contact(1,"Vova","Maximov","+375447145682");
+		Contact c5 = new Contact(1,"Zaxar","Dylan","+375443548615");
+		Contact c6 = new Contact(1,"Max","Ivanov","+375444456865");
+		for (int i = 0; i<6;i++) {
+			contacts[i]
+		}
+	}
+
+	private JPanel contentPane;
+
+	/**
+	 * Launch the application.
+	 */
+	public static void main(String[] args) {
+		
+					ContactsManagerApp frame = new ContactsManagerApp();
+					frame.setVisible(true);
+				
+	}
+
+	/**
+	 * Create the frame.
+	 */
+	public ContactsManagerApp() {
+		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		setBounds(100, 100, 450, 300);
+		contentPane = new JPanel();
+		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
+		contentPane.setLayout(new BorderLayout(0, 0));
+		setContentPane(contentPane);
+	}
+
+}
